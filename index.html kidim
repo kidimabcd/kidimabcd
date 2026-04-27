@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galaxy Kidim</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- BLACK HOLE -->
+    <div class="blackhole"></div>
+
+    <!-- BINTANG -->
+    <div class="stars"></div>
+
+    <!-- SHOOTING STARS -->
+    <div class="shooting-stars"></div>
+
+    <!-- TEXT -->
+    <div class="container">
+        <h1 id="text">Halo, nama ku Kidim</h1>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
